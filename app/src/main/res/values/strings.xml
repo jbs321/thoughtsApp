@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Thoughts</string>
+    <string name="view_thoughts" translatable="false">Thoughts</string>
+    <string name="add_thought" translatable="false">Thoughts</string>
 </resources>
